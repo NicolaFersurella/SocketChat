@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/client/">
+    <Project Path="src/client/SocketChat.Core/SocketChat.Core.csproj" />
+    <Project Path="src/client/SocketChat.GUI/SocketChat.GUI.csproj" />
+  </Folder>
+  <Folder Name="/src/server/">
+    <Project Path="src/server/SocketChat.Core/SocketChat.Core.csproj" />
+    <Project Path="src/server/SocketChat.GUI/SocketChat.GUI.csproj" />
+  </Folder>
+</Solution>
